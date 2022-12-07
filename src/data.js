@@ -21,7 +21,7 @@ const projects = [
     {
         projectName: 'iMusic',
         gitUrl: 'https://github.com/Bentil-OkyereBoadu/imusic',
-        demo: 'https://imusique.netlify.app/',
+        demo: 'imusic-three.vercel.app',
         pic: `${imusic}`,
         },
     {
