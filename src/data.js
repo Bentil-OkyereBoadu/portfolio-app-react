@@ -21,7 +21,7 @@ const projects = [
     {
         projectName: 'iMusic',
         gitUrl: 'https://github.com/Bentil-OkyereBoadu/imusic',
-        demo: 'imusic-three.vercel.app',
+        demo: 'https://imusic-three.vercel.app/',
         pic: `${imusic}`,
         },
     {
